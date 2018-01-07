@@ -1,0 +1,1 @@
+# Myriad Yescrypt Miner
