@@ -1,6 +1,6 @@
 # Myriad Yescrypt Miner
 Donations are welcome =)
-MEzitiMz54ujqQbSeWqFrK632cFsvrWGR4 
+
 
 
 
@@ -25,7 +25,7 @@ of processors)
   -r, --retries=N       number of times to retry if a network call fails
                           (default: retry indefinitely)
 
-  -R, --retry-pause=N   time to pause between retries, in seconds (default: 30)
+  -R, --retry-pause=N   time to pause between retries, in seconds (default: 30)	
 
   -T, --timeout=N       timeout for long polling, in seconds (default: none)
 
